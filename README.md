@@ -6,9 +6,11 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-##
+### About me 🏆
  
-### Minhas Experiências
+### My Goals 🎯🚀
+ 
+### Minhas Experiências 🧑‍💻
  
 <div style="display: inline_block align = center"><br>
   <img align="center" alt="Hugo-Cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
