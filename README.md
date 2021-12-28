@@ -1,4 +1,4 @@
-# Heey!! ☕💻
+## Hello, friend!! ☕💻
 
  <div style="align = center" >
   <a href="https://github.com/hgrafa">
@@ -6,11 +6,13 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-##
+## About me( ) 🏆
  
-### Minhas Experiências
+ Me chamo Hugo Rafael e tenho 20 anos de idade. Atualmente sou professor de Matemática(vestibulares) e Programação(C, C++, Java e C#), comecei na programação com 15 anos de idade através da programação competitiva e até hoje sou fascinado por paradigmas. Atualmente tenho feito live coding no tempo livre para aumentar meu networking, ao mesmo tempo que desenvolvo um portfólio maior de projetos com as tecnologias que uso. 
  
-<div style="display: inline_block align = center"><br>
+## Experiences **extends** Hugo 🧑‍💻
+ 
+<div style="display: inline_block align = center">
   <img align="center" alt="Hugo-Cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Hugo-C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Hugo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
