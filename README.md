@@ -8,7 +8,7 @@
  
 ## About me 🏆
  
- Me chamo Hugo Rafael e tenho 20 anos de idade. Atualmente sou professor de Matemática(vestibulares) e Programação(C, C++, Java e C#), comecei na programação com 15 anos de idade através da programação competitiva e até hoje sou fascinado por paradigmas. Atualmente tenho feito live coding no tempo livre para aumentar meu networking, ao mesmo tempo que desenvolvo um portfólio maior de projetos com as tecnologias que uso.
+ Me chamo Hugo Rafael e tenho 20 anos de idade. Atualmente sou professor de Matemática(vestibulares) e Programação(C, C++, Java e C#), comecei na programação com 15 anos de idade através da programação competitiva e até hoje sou fascinado por paradigmas. Atualmente tenho feito [*live coding*](twich.tv/drift/in/tokyo) no tempo livre para aumentar meu networking, ao mesmo tempo que desenvolvo um portfólio maior de projetos com as tecnologias que uso.
 
 ## Minhas principais tecnologias 🧑‍💻🚀
  
