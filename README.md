@@ -19,7 +19,7 @@
   <img align="center" alt="Hugo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
  
-## Outras tecnologias que já usei 🧑‍💻📝
+## Outras experiências que já tive🧑‍💻📝
  
 <div style="display: inline_block align = center">
   <img align="center" alt="Hugo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
