@@ -25,10 +25,11 @@
   <img align="center" alt="Hugo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hugo-GoLang" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Hugo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Hugo-VS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Hugo-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Hugo-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Hugo-PS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Hugo-VS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Hugo-Premiere" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
 </div>
  
  ##
