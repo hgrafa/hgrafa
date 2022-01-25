@@ -1,14 +1,13 @@
 ## Hello, friend!! ☕💻
 
+## About me 🏆
+ 
+ Me chamo Hugo Rafael e tenho 20 anos de idade. Atualmente sou professor de Matemática(vestibulares) e Programação(C, C++, Java e C#), comecei na programação com 15 anos de idade através da programação competitiva e até hoje sou fascinado por paradigmas. Atualmente tenho feito *Live Coding* no tempo livre para aumentar meu networking, ao mesmo tempo que desenvolvo um portfólio maior de projetos com as tecnologias que uso. 
  <div style="align = center" >
   <a href="https://github.com/hgrafa">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=hgrafa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,contribs"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=radical"/>
 </div>
- 
-## About me 🏆
- 
- Me chamo Hugo Rafael e tenho 20 anos de idade. Atualmente sou professor de Matemática(vestibulares) e Programação(C, C++, Java e C#), comecei na programação com 15 anos de idade através da programação competitiva e até hoje sou fascinado por paradigmas. Atualmente tenho feito *Live Coding* no tempo livre para aumentar meu networking, ao mesmo tempo que desenvolvo um portfólio maior de projetos com as tecnologias que uso. 
 
 ## Minhas principais tecnologias 🧑‍💻🚀
  
