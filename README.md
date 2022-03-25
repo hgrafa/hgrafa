@@ -28,6 +28,7 @@
  <img align="center" alt="Hugo-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img align="center" alt="Hugo-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
  <img align="center" alt="Hugo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Hugo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
  
 ## Outras experiências que tenho/já tive🧑‍💻🧪
  
