@@ -24,9 +24,8 @@
  
  ## O que tenho estudado 💻📝
  
- <img align="center" alt="Hugo-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
- <img align="center" alt="Hugo-Django" height="40" width="90" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png">
- <img align="center" alt="Hugo-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+ <img align="center" alt="Hugo-GRPC" height="40" width="90" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png">
+ <img align="center" alt="Hugo-Springboot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img align="center" alt="Hugo-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
  <img align="center" alt="Hugo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  <img align="center" alt="Hugo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
@@ -36,6 +35,7 @@
 <div style="display: inline_block align = center">
   <img align="center" alt="Hugo-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Hugo-GoLang" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+ <img align="center" alt="Hugo-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Hugo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Hugo-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Hugo-VS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
