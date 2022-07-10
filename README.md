@@ -5,18 +5,19 @@
  I'm 21 years old and I code since I was 15.
  
  * 🌎 I'm based in Rio de Janeiro, Brazil
- * 🚀 I'm 
+ * 🚀 I work as Programming, Robotics and Mathematics Professor
  * 💼 I'm currently work on [Superprof](https://www.linkedin.com/company/superprof/mycompany/)
  * ✉️ You can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
+ * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
  <hr>
  
  <div style="align = center" >
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hgrafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars&hide_border=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=default&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=hgrafa&theme=tokyonight&hide_border=true&fire=FF00E9" />
-  <img height="160em" src="https://activity-graph.herokuapp.com/graph?username=hgrafa&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
+  <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=hgrafa&theme=tokyonight&hide_border=true&fire=FF00E9" />
+  <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=hgrafa&theme=github&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </div>
 
 ## Skills 🧑‍💻🚀
@@ -89,6 +90,3 @@
     </tr>
   </table>
  
- ## Are you a professor or a developer?
- 
- ##
