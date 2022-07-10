@@ -1,6 +1,6 @@
-## Hello, friend!! ☕💻
+# Hi 👋 My name is Hugo!
 
-## About me 🏆
+## Full Stack Web Developer
  
  Me chamo Hugo Rafael e tenho 21 anos de idade. Atualmente sou professor Programação(em C, C++, Java e C#), comecei na programação com 15 anos de idade através da programação competitiva e até hoje sou fascinado pelos diferentes paradigmas das linguagens de programação. Atualmente tenho feito *Live Coding* no tempo livre para aumentar meu networking, ao mesmo tempo que desenvolvo um portfólio maior de projetos com as tecnologias que uso. 
  
