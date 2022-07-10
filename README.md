@@ -8,8 +8,8 @@
  
  <div style="align = center" >
   <a href="https://github.com/hgrafa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hgrafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,contribs&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hgrafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,contribs&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
 </div>
 
 ## Skills 🧑‍💻🚀
