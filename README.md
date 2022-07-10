@@ -2,14 +2,21 @@
 
 ## Full Stack Web Developer
  
- Me chamo Hugo Rafael e tenho 21 anos de idade. Atualmente sou professor Programação(em C, C++, Java e C#), comecei na programação com 15 anos de idade através da programação competitiva e até hoje sou fascinado pelos diferentes paradigmas das linguagens de programação. Atualmente tenho feito *Live Coding* no tempo livre para aumentar meu networking, ao mesmo tempo que desenvolvo um portfólio maior de projetos com as tecnologias que uso. 
+ I'm 21 years old and I code since I was 15.
+ 
+ * 🌎 I'm based in Rio de Janeiro, Brazil
+ * 🚀 I'm 
+ * 💼 I'm currently work on [Superprof](https://www.linkedin.com/company/superprof/mycompany/)
+ * ✉️ You can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
+ * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
  <hr>
  
  <div style="align = center" >
-  <a href="https://github.com/hgrafa">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hgrafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars&hide_border=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=default&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=hgrafa&theme=tokyonight&hide_border=true&fire=FF00E9" />
+  <img height="160em" src="https://activity-graph.herokuapp.com/graph?username=hgrafa&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </div>
 
 ## Skills 🧑‍💻🚀
@@ -82,17 +89,6 @@
     </tr>
   </table>
  
-## Soft Skills / Outras Experiencias 🧑‍💻🧪
- 
-<div style="display: inline_block align = center">
-  <img align="center" alt="Hugo-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Hugo-GoLang" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
- <img align="center" alt="Hugo-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Hugo-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Hugo-VS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Hugo-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Hugo-PS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Hugo-Premiere" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
-</div>
+ ## Are you a professor or a developer?
  
  ##
