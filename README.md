@@ -21,7 +21,7 @@
   <img height="287em" src="https://activity-graph.herokuapp.com/graph?username=hgrafa&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Hugo%20Rafael's%20Commits%20Graph" alt="GitHub Commits Graph" /> 
 </div>
 
-## Skills 🧑‍💻🚀
+## Skills 🧑‍💻
 
 <div style="display: inline_block align = center">
   <table>
@@ -58,7 +58,7 @@
   
 </div>
  
- ## O que tenho estudado 💻📝
+ ## I've been studying 🚀
  
   <table>
     <tr>
