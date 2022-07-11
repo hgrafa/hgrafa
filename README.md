@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer
  
- I'm 21 years old and I code since I was 15. I started
+ <!-- I'm 21 years old and I code since I was 15. I started in competitive programming and  -->
  
  * 🌎 I'm based in Rio de Janeiro, Brazil
  * 🚀 I work as Programming, Robotics and Mathematics Professor
