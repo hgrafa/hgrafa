@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer
  
- I'm 21 years old and I code since I was 15.
+ I'm 21 years old and I code since I was 15. I started
  
  * 🌎 I'm based in Rio de Janeiro, Brazil
  * 🚀 I work as Programming, Robotics and Mathematics Professor
@@ -10,6 +10,7 @@
  * ✉️ You can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
  * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+ * 🧠 I'm passionate with data strutuctures and algorithms
  
  <hr>
  
