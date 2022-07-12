@@ -10,7 +10,7 @@
  * ✉️ You can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
  * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
- * 🧠 My favorite field is data strutuctures and algorithms
+ * 🧠 My favorite fields are data strutuctures and algorithms
  
  <hr>
  
