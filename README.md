@@ -46,6 +46,7 @@
       </td>
       <td>
           <img align="center" alt="Hugo-Springboot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+           <img align="center" alt="Hugo-Springboot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
           <img align="center" alt="Hugo-dotnet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
       </td>
       <td>
