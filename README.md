@@ -89,7 +89,6 @@
       <td>
         <img align="center" alt="Hugo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img align="center" alt="Hugo-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
-        <img align="center" alt="Hugo-Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
       </td>
     </tr>
   </table>
