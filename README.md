@@ -23,7 +23,7 @@
 
 ## Skills 🧑‍💻
 
-<div style="display: inline_block align = center">
+<div style="display: inline_block; align = center">
   <table>
     <tr>
       <th> Technologies</th>
