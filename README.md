@@ -80,7 +80,6 @@
       <td>
         <img align="center" alt="Hugo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="Hugo-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-        <img align="center" alt="Hugo-GRPC" width="70" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png">
       </td>
       <td>
         <img align="center" alt="Hugo-GraphQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
@@ -93,7 +92,7 @@
 ## Other Experiences
  
 <table>
-<th colspan="3"> Already work with </th>
+<th colspan="4"> Already work with </th>
 <tr> 
   <td> 
     <img align="center" alt="Hugo-Haskell" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
@@ -101,6 +100,9 @@
      <img align="center" alt="Hugo-C" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
       <img align="center" alt="Hugo-Go" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
        <img align="center" alt="Hugo-Django" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  </td>
+  <td>
+   <img align="center" alt="Hugo-GRPC" width="70" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png">
   </td>
   <td>
     <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
