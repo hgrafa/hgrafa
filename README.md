@@ -90,16 +90,25 @@
     </tr>
   </table>
   
-## Other Experiences / Already work with
+## Other Experiences
  
 <table>
+<th colspan="3"> Already work with </th>
 <tr> 
   <td> 
     <img align="center" alt="Hugo-Haskell" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
     <img align="center" alt="Hugo-R" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-     <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"">
+     <img align="center" alt="Hugo-C" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
       <img align="center" alt="Hugo-Go" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
        <img align="center" alt="Hugo-Django" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  </td>
+  <td>
+    <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Hugo-Lego" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png">
+  </td>
+  <td>
+   <img align="center" alt="Hugo-PS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+    <img align="center" alt="Hugo-Pr" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
   </td>
 </tr>
 </table>
