@@ -21,7 +21,7 @@
   <img height="287em" src="https://activity-graph.herokuapp.com/graph?username=hgrafa&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Hugo%20Rafael's%20Commits%20Graph" alt="GitHub Commits Graph" /> 
 </div>
 
-## Skills 🧑‍💻
+## Hard Skills 🧑‍💻
 
 <div style="display: inline_block; align = center">
   <table>
@@ -36,8 +36,6 @@
         <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
         <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
         <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-         <img align="center" alt="Hugo-Haskell" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-        <img align="center" alt="Hugo-R" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
         <img align="center" alt="Hugo-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
         <img align="center" alt="Hugo-Cplusplus" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
       </td>
@@ -91,4 +89,17 @@
       </td>
     </tr>
   </table>
+  
+## Other Experiences / Already work with
  
+<table>
+<tr> 
+  <td> 
+    <img align="center" alt="Hugo-Haskell" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+    <img align="center" alt="Hugo-R" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+     <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"">
+      <img align="center" alt="Hugo-Go" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+       <img align="center" alt="Hugo-Django" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  </td>
+</tr>
+</table>
