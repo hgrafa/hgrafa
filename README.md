@@ -92,7 +92,7 @@
 ## Other Experiences
  
 <table>
-<th colspan="4"> Already work with </th>
+<th colspan="4"> Already study or work with </th>
 <tr> 
   <td> 
     <img align="center" alt="Hugo-Haskell" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
