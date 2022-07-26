@@ -33,8 +33,9 @@
     </tr>
     <tr>
       <td> 
-        <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
-        <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+        <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="Hugo-Typescript" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">  
         <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="Hugo-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
         <img align="center" alt="Hugo-Cplusplus" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
@@ -71,20 +72,19 @@
     <tr>
       <td>
        <img align="center" alt="Hugo-Kotlin" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-        <img align="center" alt="Hugo-Typescript" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
         <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       </td>
       <td>
         <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       </td>
       <td>
-        <img align="center" alt="Hugo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img align="center" alt="Hugo-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+        <img align="center" alt="Hugo-React" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
       </td>
       <td>
-        <img align="center" alt="Hugo-GraphQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-        <img align="center" alt="Hugo-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
-        <img align="center" alt="Hugo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <img align="center" alt="Hugo-GraphQL" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+        <img align="center" alt="Hugo-Heroku" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+        <img align="center" alt="Hugo-Docker" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       </td>
     </tr>
   </table>
