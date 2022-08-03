@@ -100,6 +100,7 @@
      <img align="center" alt="Hugo-C" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
       <img align="center" alt="Hugo-Go" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
        <img align="center" alt="Hugo-Django" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+        <img align="center" alt="Hugo-Django" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"icons/flask/flask-original.svg">
   </td>
   <td>
    <img align="center" alt="Hugo-GRPC" width="70" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png">
