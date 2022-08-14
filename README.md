@@ -73,6 +73,7 @@
     <tr>
       <td>
        <img align="center" alt="Hugo-Kotlin" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+       <img align="center" alt="Hugo-NextJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
       </td>
       <td>
         <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
