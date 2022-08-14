@@ -35,7 +35,8 @@
       <td> 
         <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Hugo-Typescript" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+        <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="Hugo-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
         <img align="center" alt="Hugo-Cplusplus" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
@@ -72,7 +73,6 @@
     <tr>
       <td>
        <img align="center" alt="Hugo-Kotlin" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-        <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       </td>
       <td>
         <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
