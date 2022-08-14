@@ -76,6 +76,7 @@
       </td>
       <td>
         <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+        <img align="center" alt="Hugo-Redis" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
       </td>
       <td>
         <img align="center" alt="Hugo-NextJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
