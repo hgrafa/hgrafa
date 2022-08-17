@@ -33,27 +33,27 @@
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Hugo-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
-        <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="Hugo-HTML5" width="35" height="35" padding="1" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
+        <img align="center" alt="Hugo-JS" height="35" width="42"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Hugo-Typescript" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="center" alt="Hugo-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
-        <img align="center" alt="Hugo-Cplusplus" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
+        <img align="center" alt="Hugo-Java" height="35" width="42"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img align="center" alt="Hugo-Python" height="35" width="42"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="Hugo-C#" height="35" width="42"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
+        <img align="center" alt="Hugo-Cplusplus" height="35" width="42"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
       </td>
       <td> 
-        <img align="center" alt="Hugo-PostreSQL" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-        <img align="center" alt="Hugo-MySQL" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+        <img align="center" alt="Hugo-PostreSQL" height="35" width="42"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="Hugo-MySQL" height="35" width="42"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
       </td>
       <td>
-          <img align="center" alt="Hugo-Springboot" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-        <img align="center" alt="Hugo-Vuejs" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-           <img align="center" alt="Hugo-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-            <img align="center" alt="Hugo-Tailwind" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-            <img align="center" alt="Hugo-dotnetcore" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+          <img align="center" alt="Hugo-Springboot" height="35" width="40"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img align="center" alt="Hugo-Vuejs" height="35" width="40"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+           <img align="center" alt="Hugo-Bootstrap" height="35" width="40"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+            <img align="center" alt="Hugo-Tailwind" height="35" width="40"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+            <img align="center" alt="Hugo-dotnetcore" height="35" width="40"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
       </td>
       <td>
-          <img align="center" alt="Hugo-Selenium" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+          <img align="center" alt="Hugo-Selenium" height="35" width="40"  padding="1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
       </td>
     </tr>
  </table> 
@@ -73,7 +73,7 @@
     <tr>
       <td>
        <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-       <img align="center" alt="Hugo-Kotlin" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+       <img align="center" alt="Hugo-Kotlin" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
       </td>
       <td>
         <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
