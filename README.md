@@ -79,7 +79,7 @@
         <img align="center" alt="Hugo-Redis" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
       </td>
       <td>
-        <img align="center" alt="Hugo-NextJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+        <img align="center" width="31" height="31" alt="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
         <img align="center" alt="Hugo-React" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
       </td>
