@@ -32,7 +32,8 @@
       <th> Tools </th>
     </tr>
     <tr>
-      <td> 
+      <td>
+        <img align="center" alt="Hugo-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
         <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Hugo-Typescript" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -79,7 +80,7 @@
         <img align="center" alt="Hugo-Redis" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
       </td>
       <td>
-        <img align="center" width="31" height="31" alt="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
+        <img align="center" width="32" height="32" alt="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
         <img align="center" alt="Hugo-React" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
       </td>
