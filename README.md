@@ -77,7 +77,6 @@
       </td>
       <td>
         <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-        <img align="center" alt="Hugo-Redis" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
       </td>
       <td>
         <img align="center" width="32" height="32" alt="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
@@ -85,7 +84,6 @@
         <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
       </td>
       <td>
-        <img align="center" alt="Hugo-GraphQL" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
         <img align="center" alt="Hugo-Heroku" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
         <img align="center" alt="Hugo-Docker" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       </td>
@@ -102,10 +100,8 @@
     <img align="center" alt="Hugo-R" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
      <img align="center" alt="Hugo-C" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
      <img align="center" alt="Hugo-Go" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-     <img align="center" alt="Hugo-PHP" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   </td>
   <td>
-   <img align="center" alt="Hugo-Laravel" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
    <img align="center" alt="Hugo-Django" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
    <img align="center" alt="Hugo-Flask" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
    <img align="center" alt="Hugo-GRPC" width="70" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png">
