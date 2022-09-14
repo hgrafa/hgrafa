@@ -72,6 +72,7 @@
         <img align="center" alt="Hugo-Typescript" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
        <img align="center" alt="Hugo-Kotlin" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
        <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+       <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
       </td>
       <td>
         <img align="center" alt="Hugo-MySQL" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
@@ -90,24 +91,3 @@
       </td>
     </tr>
   </table>
-  
-## Other Experiences
- 
-<table>
-<th colspan="4"> Already study or work with </th>
-<tr> 
-  <td> 
-    <img align="center" alt="Hugo-R" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-     <img align="center" alt="Hugo-C" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-     <img align="center" alt="Hugo-Go" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-   <img align="center" alt="Hugo-Django" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-   <img align="center" alt="Hugo-GRPC" width="70" src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png">
-  </td>
-  <td>
-    <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-    <img align="center" alt="Hugo-Lego" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png">
-    <img align="center" alt="Hugo-PS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-    <img align="center" alt="Hugo-Pr" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
-  </td>
-</tr>
-</table>
