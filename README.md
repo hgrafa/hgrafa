@@ -4,13 +4,22 @@
  
  <!-- I'm 21 years old and I code since I was 15. I started in competitive programming and  -->
  
+ ### About me
+ 
  * 🌎 I'm based in Rio de Janeiro, Brazil
  * 🚀 I work as Programming, Robotics and Mathematics Professor
- * 💼 I'm currently lead [Hoogle](https://www.linkedin.com/company/hoogle) and work on [Superprof](https://www.linkedin.com/company/superprof)
- * ✉️ You can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
- * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
- * 🧠 My favorite fields are data strutuctures and algorithms
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+ * 🧠 My favorite fields are data strutuctures and algorithms
+ 
+ ### Work and Current Projects
+ 
+ * 💼 I'm currently lead [Hoogle](https://www.linkedin.com/company/hoogle) and work on [Superprof](https://www.linkedin.com/company/superprof)
+ * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
+ 
+ ### My Articles and where to find me
+ 
+* ✉️ Also, you can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
+
  
  <hr>
  
