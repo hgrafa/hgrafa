@@ -1,6 +1,6 @@
 # Hi 👋 My name is Hugo!
 
-## Backend Web and Software Developer
+## Backend Web Developer and Software Developer
  
  <!-- I'm 21 years old and I code since I was 15. I started in competitive programming and  -->
  
