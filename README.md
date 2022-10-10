@@ -15,7 +15,7 @@
  ### Work and Current Projects
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle](https://www.linkedin.com/company/hoogle) 
- * 💼 I'm also work/teach at [Superprof](https://www.linkedin.com/company/superprof) and at [Ímã Learning Place](https://github.com/imalearningplace-education)
+ * 💼 I'm also work/teach at [Ímã Learning Place](https://github.com/imalearningplace-education) and at [Superprof](https://www.linkedin.com/company/superprof)
  * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
  * ✉️ Also, you can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
  
