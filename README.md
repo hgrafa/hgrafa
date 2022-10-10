@@ -8,17 +8,18 @@
  
  * 🌎 I'm based in Rio de Janeiro, Brazil
  * 🚀 I work as Programming, Robotics and Mathematics Professor
- * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+ * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are data strutuctures and algorithms
+ * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
  ### Work and Current Projects
  
- * 💼 I'm currently lead [Hoogle](https://www.linkedin.com/company/hoogle) and work on [Superprof](https://www.linkedin.com/company/superprof)
+ * 🧑‍💻 I am a founder and teacher at [Hoogle](https://www.linkedin.com/company/hoogle) 
+ * 💼 I'm also work/teach at [Superprof](https://www.linkedin.com/company/superprof) and at [Ímã Learning Place](https://github.com/imalearningplace-education)
  * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
+ * ✉️ Also, you can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
  
- ### My Articles and where to find me
- 
-* ✉️ Also, you can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
+<!-- ### My Articles and where to find me -->
 
  
  <hr>
