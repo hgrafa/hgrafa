@@ -70,7 +70,6 @@
   <table>
     <tr>
       <th> Technologies </th>
-      <th> Database </th>
       <th> Frameworks </th>
       <th> Tools </th>
     </tr>
