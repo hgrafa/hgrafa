@@ -37,9 +37,8 @@
   <table>
     <tr>
       <th> Technologies</th>
-      <th> Database </th>
+      <th> Databases </th>
       <th> Frameworks </th>
-      <th> Tools </th>
     </tr>
     <tr>
       <td>
@@ -53,6 +52,7 @@
       <td> 
         <img align="center" alt="Hugo-MySQL" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
         <img align="center" alt="Hugo-PostreSQL" height="35" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       </td>
       <td>
           <img align="center" alt="Hugo-Springboot" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -80,9 +80,6 @@
        <img align="center" alt="Hugo-Kotlin" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
        <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
        <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-      </td>
-      <td>
-         <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       </td>
       <td>
         <img align="center" width="32" height="32" alt="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
