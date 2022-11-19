@@ -59,9 +59,6 @@
         <img align="center" alt="Hugo-Vuejs" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
             <img align="center" alt="Hugo-dotnetcore" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
       </td>
-      <td>
-          <img align="center" alt="Hugo-Selenium" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-      </td>
     </tr>
  </table> 
  
@@ -100,6 +97,7 @@
         <img align="center" alt="Hugo-Vitejs" height="35" width="40" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667">
         <img align="center" alt="Hugo-Heroku" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
         <img align="center" alt="Hugo-Docker" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <img align="center" alt="Hugo-Selenium" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
       </td>
     </tr>
   </table>
