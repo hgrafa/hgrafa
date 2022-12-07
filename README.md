@@ -39,11 +39,11 @@
       <th> Technologies</th>
       <th> Databases </th>
       <th> Frameworks </th>
+     <th> Tools </th>
     </tr>
     <tr>
       <td>
         <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="Hugo-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img align="center" alt="Hugo-NodeJs" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="Hugo-Java" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img align="center" alt="Hugo-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
@@ -59,6 +59,10 @@
         <img align="center" alt="Hugo-Vuejs" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
             <img align="center" alt="Hugo-dotnetcore" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
       </td>
+     <td>
+        <img align="center" alt="Hugo-Docker" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <img align="center" alt="Hugo-MongoDB" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+     </td>
     </tr>
  </table> 
  
@@ -76,6 +80,7 @@
     <tr>
       <td>
         <img align="center" alt="Hugo-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
+       <img align="center" alt="Hugo-TS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
        <img align="center" alt="Hugo-Kotlin" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
        <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
        <img align="center" alt="Hugo-Arduino" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
@@ -92,7 +97,6 @@
         <img align="center" alt="Hugo-Webpack" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
         <img align="center" alt="Hugo-Vitejs" height="35" width="40" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667">
         <img align="center" alt="Hugo-Heroku" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
-        <img align="center" alt="Hugo-Docker" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img align="center" alt="Hugo-Selenium" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
       </td>
     </tr>
