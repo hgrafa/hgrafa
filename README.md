@@ -28,7 +28,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hgrafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars&hide_border=true"/>
   <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/> -->
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=hgrafa&theme=tokyonight&hide_border=true&fire=FF00E9" />
-  <!-- <img height="287em" src="https://activity-graph.herokuapp.com/graph?username=hgrafa&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Hugo%20Rafael's%20Commits%20Graph" alt="GitHub Commits Graph" />  -->
+   <img height="287em" src="https://github-readme-activity-graph.cyclic.app/graph?username=hgrafa&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Hugo%20Rafael's%20Commits%20Graph" alt="GitHub Commits Graph" /> 
 </div>
 
 ## Hard Skills 🧑‍💻
