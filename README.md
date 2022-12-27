@@ -94,7 +94,6 @@
        <img align="center" alt="Hugo-Tailwind" height="35" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
       </td>
       <td>
-        <img align="center" alt="Hugo-Webpack" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
         <img align="center" alt="Hugo-Heroku" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
         <img align="center" alt="Hugo-Selenium" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
       </td>
