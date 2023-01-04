@@ -7,7 +7,7 @@
  ### About me
  
  * 🌎 I'm based in Rio de Janeiro, Brazil
- * 🚀 I work as Programming, Robotics and Mathematics Professor
+ * 🚀 I work as Programming and Mathematics Professor
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are data strutuctures and algorithms
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
