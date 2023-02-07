@@ -15,7 +15,7 @@
  ### Curent projects
  
  * ⚡ Check out some of my classes materials at [Hoogle Repositories](https://github.com/Hoogle-Education)
- * 🔥 Bootcamp that I'm leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp)
+ * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp)
  * 🤘 Working on a youtube video content (Comming soon!)
  
  ### Work and Where to find me
