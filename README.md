@@ -12,15 +12,18 @@
  * 🧠 My favorite fields are data strutuctures and algorithms
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
- ### Work and Current Projects
+ ### Curent projects
+ 
+ * ⚡ Check out some of my classes materials at [Hoogle Repositories](https://github.com/Hoogle-Education)
+ * 🔥 Bootcamp that I'm leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp)
+ * 🤘 Working on a youtube video content (Comming soon!)
+ 
+ ### Work and Where to find me
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle](https://www.linkedin.com/company/hoogle) 
  * 💼 I'm also teacher/professor at [Ímã Learning Place](https://github.com/imalearningplace-education) and at [Superprof](https://www.linkedin.com/company/superprof)
  * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
  * ✉️ Also, you can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
- 
-<!-- ### My Articles and where to find me -->
-
  
  <hr>
  
