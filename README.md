@@ -1,12 +1,10 @@
 # Hi 👋 My name is Hugo!
 
 ## Fullstack Developer
- 
- <!-- I'm 21 years old and I code since I was 15. I started in competitive programming and  -->
- 
+  
  ### About me
  
- * 🌎 I'm based in Rio de Janeiro, Brazil
+ * 🌎 I'm based in Fortaleza, Brazil
  * 🚀 I work as Programming and Mathematics Professor
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are data strutuctures and algorithms
