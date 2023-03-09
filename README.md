@@ -14,13 +14,13 @@
  
  * ⚡ Check out some of my classes materials at [Hoogle Repositories](https://github.com/Hoogle-Education)
  * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]()
+ * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
  * 🤘 Working on a youtube video content (Coming soon!)
  
  ### Work and Where to find me
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle](https://www.linkedin.com/company/hoogle) 
  * 💼 I'm also teacher/professor at [Ímã Learning Place](https://github.com/imalearningplace-education), [Resilia Educação](https://github.com/resilia-br) and [Superprof](https://www.linkedin.com/company/superprof)
- * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
  * ✉️ Also, you can contact me at [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education)
  
  <hr>
