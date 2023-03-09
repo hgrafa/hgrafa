@@ -21,7 +21,7 @@
  * 🧑‍💻 I am a founder and teacher at [Hoogle](https://www.linkedin.com/company/hoogle) 
  * 💼 I'm also teacher/professor at [Ímã Learning Place](https://github.com/imalearningplace-education), [Resilia Educação](https://github.com/resilia-br) and [Superprof](https://www.linkedin.com/company/superprof)
  * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
- * ✉️ Also, you can contact me at [hugorafell@gmail.com](mailto:hugorafell@gmail.com)
+ * ✉️ Also, you can contact me at [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education)
  
  <hr>
  
