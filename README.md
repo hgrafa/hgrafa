@@ -19,7 +19,7 @@
  
  ### Work and Where to find me
  
- * 🧑‍💻 I am a founder and teacher at [Hoogle](https://www.linkedin.com/company/hoogle) 
+ * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle) 
  * 💼 I'm also teacher/professor at [Ímã Learning Place](https://github.com/imalearningplace-education), [Resilia Educação](https://github.com/resilia-br) and [Superprof](https://www.linkedin.com/company/superprof)
  * ✉️ Also, you can contact me at [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education)
  
