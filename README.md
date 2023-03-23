@@ -4,10 +4,11 @@
   
  ### About me
  
- * 🌎 I'm based in Fortaleza, Brazil
+ * 🌎  I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * 🚀 I work as Programming and Mathematics Professor
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are data strutuctures and algorithms
+ * 🌠 Beyond code, I'm passionate about learning different musical instruments
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
  ### Curent projects
@@ -15,13 +16,13 @@
  * ⚡ Check out some of my classes materials at [Hoogle Repositories](https://github.com/Hoogle-Education)
  * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]()
  * 📺 On my free time I stream Live Coding at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle)
- * 🤘 Working on a youtube video content (Coming soon!)
+ * 🤘 I'm also working on exciting new YouTube content, so stay tuned!
  
  ### Work and Where to find me
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle) 
  * 💼 I'm also teacher/professor at [Ímã Tech](https://github.com/imalearningplace-education), [Resilia Educação](https://github.com/resilia-br) and [Superprof](https://www.linkedin.com/company/superprof)
- * ✉️ Also, you can contact me at [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education)
+ * ✉️ Need to get in touch? [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education) text me!
  
  <hr>
  
