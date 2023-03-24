@@ -8,7 +8,7 @@
  * 🚀 I work as Programming and Mathematics Professor
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are data strutuctures and algorithms
- * 🌠 Beyond code, I'm passionate about learning different musical instruments
+ * 🎸 I'm also passionate about learning different musical instruments
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
  ### Curent projects
@@ -22,7 +22,7 @@
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle) 
  * 💼 I'm also teacher/professor at [Ímã Tech](https://github.com/imalearningplace-education), [Resilia Educação](https://github.com/resilia-br) and [Superprof](https://www.linkedin.com/company/superprof)
- * ✉️ Need to get in touch? [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education) text me!
+ * ✉️ Need to get in touch? [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education)
  
  <hr>
  
