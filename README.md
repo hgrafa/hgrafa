@@ -33,7 +33,7 @@
     <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=hgrafa&theme=tokyonight&hide_border=true&fire=FF00E9" />
   </a>
   <a href="github.com/hgrafa">
-   <img height="287em" src="https://github-readme-activity-graph.cyclic.app/graph?username=hgrafa&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Hugo%20Rafael's%20Commits%20Graph" alt="GitHub Commits Graph" /> 
+   <img height="287em" src="https://github-readme-activity-graph.vercel.app/graph?username=hgrafa&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Hugo%20Rafael's%20Commits%20Graph" alt="GitHub Commits Graph" /> 
  </a>
 </div>
 
