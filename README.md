@@ -7,13 +7,14 @@
  * 🌎  I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * 🚀 I work as Programming and Mathematics Professor
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
- * 🧠 My favorite fields are data strutuctures and algorithms
- * 🎸 I'm also passionate about learning different musical instruments
+ * 🧠 My favorite fields are distributed systems, data strutuctures and algorithms
+ * 🎸 I'm also a drummer and guitarist, learning new languages (in music and code)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
  ### Curent projects
  
  * ⚡ Check out some of my classes materials at [Hoogle Repositories](https://github.com/Hoogle-Education)
+ * 📃 You can find sort of my articles at [my Medium](https://medium.com/@hoogle)
  * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]()
  * 📺 I stream live coding and create content at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle) to [Hoogle Youtube Channel](https://www.youtube.com/@hooogle)
  
