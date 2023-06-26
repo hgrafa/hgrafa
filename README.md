@@ -58,9 +58,11 @@
           <img align="center" alt="Hugo-dotnetcore" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
           <img align="center" alt="Hugo-NodeJs" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
           <img align="center" alt="Hugo-React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+          <img align="center" alt="Hugo-Angular" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
       </td>
      <td>
         <img align="center" alt="Hugo-MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+         <img align="center" alt="Hugo-PostreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
         <img align="center" alt="Hugo-MongoDB" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
         <img align="center" alt="Hugo-Docker" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img align="center" alt="Hugo-MongoDB" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
@@ -89,8 +91,6 @@
   <img align="center" alt="Hugo-NextJs" width="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
   <img align="center" alt="Hugo-Expressjs" height="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg">
   <img align="center" alt="Hugo-Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Hugo-Angular" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Hugo-PostreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Hugo-Selenium" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Hugo-Arduino" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </span>
