@@ -91,5 +91,6 @@
   <img align="center" alt="Hugo-Expressjs" height="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg">
   <img align="center" alt="Hugo-Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Hugo-Selenium" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Hugo-Selenium" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
   <img align="center" alt="Hugo-Arduino" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </span>
