@@ -5,7 +5,7 @@
  ### About me
  
  * 🌎  I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
- * 🚀 I work as Programming and Mathematics Professor
+ * 🚀 I work as Programming and Mathematics Tutor
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are distributed systems, data strutuctures and algorithms
  * 🎸 I'm also a drummer and guitarist, learning new languages (in music and code)
