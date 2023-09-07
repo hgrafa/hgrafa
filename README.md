@@ -21,7 +21,7 @@
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle) 
  * 💼 I'm also teacher/professor at [Ímã Tech](https://github.com/imalearningplace-education), [Resilia Educação](https://github.com/resilia-br) and [Superprof](https://www.linkedin.com/company/superprof)
- * ✉️ Need to get in touch? [hugorafael@hoogle.education](mailto:hugorafae@hoogle.education)
+ * ✉️ Need to get in touch? [hugo@hoogle.education](mailto:hugo@hoogle.education)
  
  <hr>
  
