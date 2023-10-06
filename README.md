@@ -18,8 +18,9 @@
  
  ### Work and Where to find me
  
- * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle) 
- * 💼 I'm also teacher/professor at [Ímã Tech](https://github.com/imalearningplace-education), [Resilia Educação](https://github.com/resilia-br) and [Superprof](https://www.linkedin.com/company/superprof)
+ * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle)
+ * 🍎 I work as tutor/mentor through [Superprof](https://www.linkedin.com/company/superprof)
+ * 💼 I lead bootcamps at [Ímã Tech](https://github.com/imalearningplace-education) and [Resilia Educação](https://github.com/resilia-br)
  * ✉️ Need to get in touch? [hugo@hoogle.education](mailto:hugo@hoogle.education)
  
  <hr>
