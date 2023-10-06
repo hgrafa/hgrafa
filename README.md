@@ -7,6 +7,7 @@
  * 🌎  I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are distributed systems, data strutuctures and algorithms
+ * 🏆 200+ Junior devs boosted and inspired
  * 🎸 I'm also a drummer and guitarist, learning new languages (in music and code)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
