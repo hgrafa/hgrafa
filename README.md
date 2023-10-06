@@ -52,6 +52,8 @@
       <td>
         <img align="center" alt="Hugo-Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img align="center" alt="Hugo-Springboot" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+      </td>
+      <td>
         <img align="center" alt="Hugo-C#" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
         <img align="center" alt="Hugo-dotnetcore" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
       </td>
