@@ -12,7 +12,8 @@
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
  ### Curent projects
- 
+
+ * ✨ Leading and Launching [Adda](https://github.com/adda-dev)
  * ⚡ Check out some of my classes materials at [Hoogle Repositories](https://github.com/Hoogle-Education)
   <!-- * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]() -->
  <!-- * 📺 I stream live coding and create content at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle) to [Hoogle Youtube Channel](https://www.youtube.com/@hooogle) -->
