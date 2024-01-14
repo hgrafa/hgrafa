@@ -12,7 +12,7 @@
  
  ### Curent projects
 
- * ✨ Leading and launching [Adda](https://github.com/adda-dev)
+ <!--* ✨ Leading and launching [Adda](https://github.com/adda-dev)-->
  * 🏆 200+ Junior devs boosted, and inspiring even more
  * ⚡ Check out some of my classes at [Hoogle Repositories](https://github.com/Hoogle-Education)
   <!-- * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]() -->
