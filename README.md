@@ -8,22 +8,22 @@
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite study fields are distributed systems and data strutuctures
  * 🎸 I'm also a drummer and guitarist, learning new languages (in music and code)
+ * 🏆 300+ junior and mid-level developers boosted, and inspiring even more
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  
- ### Curent projects
+  <!--* ### Curent projects -->
 
  <!--* ✨ Leading and launching [Adda](https://github.com/adda-dev)-->
- * 🏆 200+ Junior devs boosted, and inspiring even more
- * ⚡ Check out some of my classes at [Hoogle Repositories](https://github.com/Hoogle-Education)
-  <!-- * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]() -->
+ <!--* * 🏆 200+ Junior devs boosted, and inspiring even more -->
+ <!--** ⚡ Check out some of my classes at [Hoogle Repositories](https://github.com/Hoogle-Education) -->
+ <!-- * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]() -->
  <!-- * 📺 I stream live coding and create content at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle) to [Hoogle Youtube Channel](https://www.youtube.com/@hooogle) -->
  
  ### Work and Where to find me
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle)
- * 🍎 I work as tutor/mentor through [Superprof](https://www.linkedin.com/company/superprof)
- * 💼 I lead bootcamps at [Ímã Tech](https://github.com/imalearningplace-education) and [Resilia Educação](https://github.com/resilia-br)
- * ✉️ Need to get in touch? [contato@hoogle.education](mailto:contato@hoogle.education)
+ * 🍎 I lead bootcamps at [Ímã Tech](https://github.com/imalearningplace-education) and [Resilia Educação](https://github.com/resilia-br)
+ * ✉️ Need to get in touch? [hey@hoogle.education](mailto:hey@hoogle.education)
  
  <hr>
  
@@ -44,7 +44,6 @@
   <table>
     <tr>
       <td>
-        <img align="center" alt="Hugo-JS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Hugo-TS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img align="center" alt="Hugo-NodeJs" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="Hugo-React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -65,9 +64,6 @@
         <img align="center" alt="Hugo-dotnetcore" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
         <img align="center" alt="Hugo-blazor" height="36" style="margin-top: -20;" src="https://vectorwiki.com/images/kYNj1__blazor.svg">
       </td>
-      <td>
-          <img align="center" alt="Hugo-PostreSQL" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      </td>
     </tr>
  </table> 
  
@@ -76,6 +72,13 @@
  
  ### Other Skills and Experiences
  <span>
+  <img align="center" alt="Hugo-JS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Hugo-Angular" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Hugo-Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Hugo-Jest" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Hugo-Redux" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Hugo-Karma" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg">
+  <img align="center" alt="Hugo-PostreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Hugo-MySQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Hugo-MongoDB" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Hugo-Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
@@ -83,16 +86,11 @@
   <img align="center" alt="Hugo-Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Hugo-AWS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Hugo-Kubernetes" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="Hugo-C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Hugo-Cplusplus" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Hugo-Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hugo-Django" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Hugo-FastAPI" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img align="center" alt="Hugo-Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-     <img align="center" alt="Hugo-Jest" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Hugo-Redux" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Hugo-Angular" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Hugo-Karma" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg">
   <img align="center" alt="Hugo-Kotlin" height="21" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Hugo-Selenium" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Hugo-C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Hugo-Cplusplus" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </span>
