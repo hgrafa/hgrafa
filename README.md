@@ -1,6 +1,6 @@
 # Hi 👋 My name is Hugo!
 
-## Full Stack Software Engineer
+## Full Stack Software Developer
   
  ### About me
  
