@@ -54,8 +54,6 @@
         <img align="center" alt="Hugo-Expressjs" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg">
       </td>
       <td>
-        <img align="center" alt="Hugo-PHP" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-        <img align="center" alt="Hugo-Laravel" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
       </td>
       <td>
         <img align="center" alt="Hugo-Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -74,6 +72,8 @@
  
  ### Other Skills and Experiences
  <span>
+  <img align="center" alt="Hugo-PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Hugo-Laravel" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
   <img align="center" alt="Hugo-Angular" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Hugo-VueJs" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Hugo-NuxtJs" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
@@ -87,7 +87,6 @@
   <img align="center" alt="Hugo-Kafka" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
   <img align="center" alt="Hugo-Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Hugo-AWS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Hugo-Kubernetes" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Hugo-C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Hugo-Cplusplus" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Hugo-blazor" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg">
