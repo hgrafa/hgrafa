@@ -7,18 +7,9 @@
  * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🏆 300+ junior and mid-level developers boosted, and inspiring even more
- * 🧠 Currently studying about advanced distributed systems
  * 🎸 I'm also a drummer and guitarist, learning new languages (in music and code)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
- 
-  <!--* ### Curent projects -->
 
- <!--* ✨ Leading and launching [Adda](https://github.com/adda-dev)-->
- <!--* * 🏆 200+ Junior devs boosted, and inspiring even more -->
- <!--** ⚡ Check out some of my classes at [Hoogle Repositories](https://github.com/Hoogle-Education) -->
- <!-- * 🔥 Bootcamp(s) that I'm current leading: [Sharp Coders](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp) and [Turma Raia Drogasil]() -->
- <!-- * 📺 I stream live coding and create content at [twitch.tv/hey_hoogle](https://www.twitch.tv/hey_hoogle) to [Hoogle Youtube Channel](https://www.youtube.com/@hooogle) -->
- 
  ### Work and Where to find me
  
  * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle)
