@@ -12,7 +12,7 @@
 
  ### Work and Where to find me
  
- * 🧑‍💻 I am a founder and teacher at [Hoogle Education](https://www.linkedin.com/company/hoogle)
+ * 🧑‍💻 If you're looking for materials about my classes, you can find them by [clicking here](https://www.linkedin.com/company/hoogle)
  * 🍎 I lead bootcamps at [Ímã Tech](https://github.com/imalearningplace-education) and [Resilia Educação](https://github.com/resilia-br)
  * ✉️ Looking for mentorship/classes or need a hand to bring your ideas to life? [hugorafael.dev@gmail.com](mailto:hugorafael.dev@gmail.com)
  
