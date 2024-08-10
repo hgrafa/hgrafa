@@ -5,7 +5,7 @@
  ### About me
  
  * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
- * 🌱 I'm a programmer since I was 15 focused on competitive programming
+ * 🌱 I'm a programmer since I was 15, starting by competitive programming
  * 🏆 300+ junior and mid-level developers boosted, and inspiring even more
  * 🎸 I'm also a drummer and guitarist, learning new languages (in music and code)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
