@@ -7,7 +7,7 @@ I'm a 23 years old developer and hacking since I was 15, starting by competitive
  * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * ✉️ You can contact me at [hugorafael.dev@gmail.com](mailto:hugorafael.dev@gmail.com)
  * 🚀 I'm currently working at [@meutudo](https://www.linkedin.com/company/meutudoapp) fintech as a Backend Software Engineer
- * 🧠 Learning about Event Driven Systems using AWS Lambdas and Kubernetes
+ * 🧠 Learning about Event Driven Systems using AWS Lambdas
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  * 🎸 I'm also a drummer and guitarist
  * ⚡ I love sports and my favorite is Crossfit
