@@ -41,6 +41,8 @@ I'm a 23 years old developer and hacking since I was 15, starting by competitive
         <img align="center" alt="Hugo-JS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Hugo-TS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img align="center" alt="Hugo-Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+             </td>
+      <td>
         <img align="center" alt="Hugo-Springboot" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
         <img align="center" alt="Hugo-NodeJs" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       </td>
