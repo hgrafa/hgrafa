@@ -34,28 +34,16 @@ I'm a 24 years old developer and hacking since I was 15, starting by competitive
 ## Hard Skills 🧑‍💻
 
 <div style="display: inline_block; align = center">
-  <table>
-    <tr>
-      <td>
         <img align="center" alt="Hugo-JS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Hugo-TS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img align="center" alt="Hugo-Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-             </td>
-      <td>
         <img align="center" alt="Hugo-Springboot" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
         <img align="center" alt="Hugo-NodeJs" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      </td>
-      <td>
         <img align="center" alt="Hugo-Docker" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img align="center" alt="Hugo-AWS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-      </td>
-      <td>
         <img align="center" alt="Hugo-React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="Hugo-Tailwind" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
         <img align="center" alt="Hugo-NextJs" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
-      </td>
-    </tr>
- </table> 
 </div>
  
  ### Other Skills and Experiences
