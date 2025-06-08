@@ -14,7 +14,7 @@ I'm a 24 years old developer and hacking since I was 15, starting by competitive
  ### Mentorship and classes 
 
  * 🖥️ If you're looking for materials about my classes, you can find them by [clicking here](https://github.com/profhugorafael)
- * 🍎 I've lead bootcamps at [Ímã Tech](https://github.com/imalearningplace-education) and [Resilia Educação](https://github.com/resilia-br)
+ * 🍎 I've lead bootcamps at [Ímã Tech](https://github.com/imalearningplace-education), [Motim Educação](https://www.linkedin.com/company/motimeducacao/) and [Resilia Educação](https://github.com/resilia-br)
  * 🤘 Looking for mentorship/classes or need a hand to bring your ideas to life? [let's talk!](mailto:hugorafael.dev@gmail.com)
 
  <hr>
