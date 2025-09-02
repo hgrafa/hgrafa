@@ -2,7 +2,7 @@
 
 ## Fullstack Software Engineer
 
-I'm a 24 years old developer and hacking since I was 15, starting by competitive programming. I love to code and figure it out how to solve deep problems using reliable and high-edge techs. Currently working with back-end development, making applications that impact the life of thousands of users.
+I'm a 24 years old developer and hacking since I was 15, starting by competitive programming. I love to code and figure it out how to solve deep problems using reliable and high-edge techs. Currently working with back-end development, making applications that impact the life of millions of users.
  
  * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * ✉️ You can contact me at [hugorafael.dev@gmail.com](mailto:hugorafael.dev@gmail.com)
