@@ -1,6 +1,6 @@
 # Hi 👋 My name is Hugo!
 
-## Fullstack Software Engineer
+## Senior Software Engineer
 
 I'm a 24 years old developer and hacking since I was 15, starting by competitive programming. I love to code and figure it out how to solve deep problems using reliable and high-edge techs. Currently working with back-end development, making applications that impact the life of millions of users.
  
