@@ -4,8 +4,8 @@
 
 I'm a 25 years old developer and hacking since I was 15, starting by competitive programming. I love to code and figure it out how to solve deep problems using reliable and high-edge techs. 
  
- * 🌎 I'm based in Sao Paulo, Brazil, and was born in Rio de Janeiro, Brazil
- * 🚀 I'm currently working at [@uber](https://www.linkedin.com/company/uber-com)
+ * 🌎 I'm from Brazil. Currently based in Fortaleza, and was born in Rio de Janeiro.
+ <!-- * 🚀 I'm currently working at [@uber](https://www.linkedin.com/company/uber-com) -->
  * ✉️ You can contact me at [hugorafael.dev@gmail.com](mailto:hugorafael.dev@gmail.com)
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  * 🎸 I'm also a drummer and guitarist
