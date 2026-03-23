@@ -2,11 +2,11 @@
 
 ## Senior Software Engineer
 
-I'm a 25 years old developer and hacking since I was 15, starting by competitive programming. I love to code and figure it out how to solve deep problems using reliable and high-edge techs. Currently working with back-end development, making applications that impact the life of millions of users.
+I'm a 25 years old developer and hacking since I was 15, starting by competitive programming. I love to code and figure it out how to solve deep problems using reliable and high-edge techs. 
  
- * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
+ * 🌎 I'm based in Sao Paulo, Brazil, and was born in Rio de Janeiro, Brazil
+ * 🚀 I'm currently working at [@uber](https://www.linkedin.com/company/uber-com)
  * ✉️ You can contact me at [hugorafael.dev@gmail.com](mailto:hugorafael.dev@gmail.com)
- * 🚀 I'm currently working at [@meutudo](https://www.linkedin.com/company/meutudoapp) fintech as a Backend Software Engineer
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
  * 🎸 I'm also a drummer and guitarist
  
